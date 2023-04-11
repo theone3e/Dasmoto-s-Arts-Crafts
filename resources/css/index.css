@@ -1,0 +1,40 @@
+.title-div{
+  background-image:url('C:/Users/yavor/coding stuff/Codecademy DevProject/resources/pattern.jpeg');
+  background-repeat:no-repeat;
+  background-size:100%
+}
+
+h1.title{
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align:center;
+}
+
+.h1{
+  font-family:Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.brushes{
+  background-color: springgreen;
+  color:white;
+}
+
+.frames{
+  background-color: lightcoral; 
+  color: white;
+}
+
+.paint {
+  background-color: skyblue;
+  color: white;
+}
+
+span{
+  font-family: Helvetica;
+  font-weight: bold;
+  color:blue;
+}
